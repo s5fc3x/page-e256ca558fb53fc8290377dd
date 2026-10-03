@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e0e01f06fa3506662a95a089",
+  "owner": "s5fc3x",
+  "repo": "page-e256ca558fb53fc8290377dd",
+  "title": "Zeze",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e256ca558fb53fc8290377dd",
+      "a": "Zeze",
+      "b": "",
+      "entity": "Zeze",
+      "brand": "Zeze",
+      "separator": "",
+      "path": "index.html",
+      "hash": "257b935d65e000e312559c29d88a5bdc6421d224ea933022cc64b2d535ba4d48",
+      "content": {
+        "keyword1": "Zeze",
+        "keyword2": "",
+        "primary_entity": "Zeze",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Zeze提供专业机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏加速与多设备客户端。官方网站展示基础版、旗舰版、团队版套餐及下载使用指南。",
+          "AI_DESCRIPTION": "Zeze提供专业机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏加速与多设备客户端。官方网站展示基础版、旗舰版、团队版套餐及下载使用指南。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:#071422;color:#dceefe;line-height:1.65;font-size:16px}a{color:#3ee7ff;text-decoration:none}header{background:#0a1c33;padding:14px 16px;border-bottom:1px solid #1c4d6e}.brand{font-size:1.25rem;font-weight:700;color:#5af0ff;margin:0 0 8px}nav{display:flex;flex-wrap:wrap;gap:10px}nav a{font-size:.95rem}main{padding:16px;max-width:720px;margin:0 auto}h1{font-size:1.75rem;color:#7af6ff;margin:0 0 16px;line-height:1.3}h2{font-size:1.35rem;color:#4de4ff;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #163a55}h3{font-size:1.1rem;color:#9befff;margin:16px 0 8px}p,li{margin:0 0 10px}.cards{display:grid;grid-template-columns:1fr;gap:12px;margin:16px 0}.card{background:#0c243d;border:1px solid #1a4d72;border-radius:10px;padding:14px}.card.featured{border-color:#2ee0ff;background:#0e2d4c}.plan-name{font-weight:700;font-size:1.15rem;color:#fff}.plan-price{font-size:1.5rem;color:#2ee0ff;margin:6px 0}.plan-annual{font-size:.9rem;color:#8ec8e0;margin-bottom:10px}.card ul{padding-left:18px;margin:0}.card li{margin-bottom:6px}details{background:#0c243d;border:1px solid #1a4d72;border-radius:8px;padding:4px 12px;margin:8px 0}summary{font-weight:600;color:#7af6ff;padding:8px 0}details p{padding:0 0 8px;color:#c5e4f5}ol{padding-left:20px}.ad-box{background:#0e3050;border:1px dashed #2a6a8a;padding:12px;border-radius:8px;margin:16px 0;font-size:.95rem}.friend-links{display:flex;flex-wrap:wrap;gap:8px 16px;margin:12px 0}footer{background:#0a1c33;padding:20px 16px;margin-top:32px;font-size:.9rem;color:#8aa8c0;text-align:center}@media(min-width:560px){.cards{grid-template-columns:1fr 1fr}}</style><header><p class=\"brand\">Zeze</p><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></header><main><h1>Zeze 机场 · 官方网站</h1><section id=\"intro\"><h2>品牌简介</h2><p>Zeze 是面向个人与团队的机场服务，专注稳定、高速的 VPN 梯子与网络加速。我们整合优质国际线路与专线资源，帮助用户访问全球内容、降低游戏延迟并保障跨境办公。作为 Zeze 官方网站，本页说明订阅套餐、多端客户端选择，以及从获取订阅到成功连接的流程。</p><p>服务覆盖流媒体解锁、在线游戏、远程协作与资料检索。节点持续维护，强调可用性与速度。手机、电脑与路由器均可通过主流客户端导入订阅后连接。</p></section><section id=\"plans\"><h2>订阅套餐</h2><p>流量按月重置，支持年付优惠。请按设备数量与使用强度选择。开通请走 Zeze 官方渠道，本页仅展示公开套餐信息。</p><div class=\"cards\"><div class=\"card\"><div class=\"plan-name\">基础版</div><div class=\"plan-price\">¥15/月</div><div class=\"plan-annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><div class=\"plan-name\">旗舰版</div><div class=\"plan-price\">¥35/月</div><div class=\"plan-annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><div class=\"plan-name\">团队版</div><div class=\"plan-price\">¥85/月</div><div class=\"plan-annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><div class=\"ad-box\">广告推荐：游戏与 4K 观影用户优先考虑旗舰版，可获得 IPLC 与原生解锁。多人协作或工作室可评估团队版的高带宽与定制路由。</div><section id=\"clients\"><h2>客户端选择与官方下载指引</h2><p>Zeze 使用通用订阅，兼容主流代理客户端。请从软件官方或应用商店下载，避免不明安装包。拿到订阅链接后，在客户端添加订阅、更新节点，再选择延迟较低的节点连接。</p><h3>Windows 客户端</h3><p>推荐 Clash Verge、v2rayN 或 sing-box 图形界面。安装后选择从 URL 导入订阅，粘贴 Zeze 链接并更新。</p><h3>Android 客户端</h3><p>可使用 Clash Meta for Android、v2rayNG、NekoBox 或 sing-box。导入方式与电脑类似，需授予 VPN 权限。</p><h3>iOS 客户端</h3><p>常用 Shadowrocket、Quantumult X、Stash 或 Surge。导入后开启代理，建议配置分流以节省流量。</p><h3>macOS 与 Linux</h3><p>macOS 可用 Clash Verge、ClashX.Meta 或 Surge。Linux 可使用 Clash Meta 或 sing-box 及其图形封装。</p><h3>路由器</h3><p>OpenWrt 等可运行 Clash、passwall 或 homeproxy，把订阅导入后实现全家网络加速。</p><p>客户端请到各项目主页或商店获取。Zeze 官方网站不托管安装包。导入成功即可使用机场节点进行梯子加速。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体解锁</h3><p>旗舰版针对常见国际影音平台做了原生解锁优化，适合追剧与高清播放。基础版可满足常规视频站点访问。</p><h3>游戏加速</h3><p>IPLC 与优化线路有助于降低到国际服务器的延迟和丢包，适合对战与更新下载。旗舰版对此有针对性配置。</p><h3>远程办公与学习</h3><p>访问海外文档、代码托管、课程和会议工具时更稳定。团队版适合多人同时在线并支持定制路由。</p><h3>日常浏览</h3><p>社交、资讯与购物站点访问更顺畅。配合分流规则，可在加速与本地直连之间取得平衡。</p></section><section id=\"guide\"><h2>操作说明</h2><p>按下列步骤即可完成订阅导入与连接，多数客户端支持一键更新节点。</p><ol><li>对照套餐差异，确定流量与设备数量，通过 Zeze 官方入口完成订阅。</li><li>在用户中心或邮件中复制订阅链接。</li><li>按设备类型下载并安装对应客户端，仅使用官方来源。</li><li>在客户端中导入订阅 URL，执行更新以拉取节点列表。</li><li>开启代理或 VPN 模式，选择延迟与负载合适的节点并测试连通。</li><li>配置分流：国内直连、境外走代理，以提升体验并节约流量。</li></ol><p>若更新失败或无法连接，可更换节点、检查订阅有效期或提交工单。旗舰与团队用户响应更优先。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Zeze 机场和普通 VPN 有什么区别？</summary><p>Zeze 以机场订阅提供多节点、可切换的代理，可按延迟和用途选线，并配合 Clash 等客户端做分流。相比单一出口的传统 VPN，灵活性和解锁能力通常更强，也便于多设备共享同一订阅。</p></details><details><summary>如何下载并配置客户端？</summary><p>先确认系统，在客户端章节查看推荐软件，前往该软件官方发布页或商店下载。安装后粘贴 Zeze 订阅链接导入并更新节点，再选择连接。不要使用来源不明的修改版。</p></details><details><summary>流量和设备限制怎么理解？</summary><p>流量为每月配额，用尽后可能降速或需等待重置，也可升级。同时在线数指可并发连接的终端。基础版适合轻度使用，旗舰版兼顾影音与游戏，团队版面向多人与高带宽。</p></details><details><summary>连接慢或打不开网站怎么办？</summary><p>尝试切换节点、更换协议或重新更新订阅，并检查系统时间与防火墙。流媒体失败时改用旗舰版中更适合解锁的节点。持续异常可通过工单反馈。</p></details><details><summary>年付和月付如何选择？</summary><p>年付更优惠，大约相当于赠送两个月，适合长期使用。需求不稳定时可先月付，确认后再改年付。</p></details><details><summary>如何确认官方身份与下载安全？</summary><p>请通过 Zeze 官方网站与订阅后台完成交易和获取链接。客户端必须来自软件原作者或应用商店，不要轻信代购或不明下载页。</p></details><details><summary>是否支持企业或多人场景？</summary><p>团队版提供更高流量、更多设备、VIP 带宽节点、定制路由和专属客户经理，适合工作室或小团队统一出口与策略管理。</p></details></section><section id=\"links\"><h2>友情链接与站点导航</h2><p>站内入口便于继续查看套餐、客户端与说明。外链请自行甄别来源。</p><div class=\"friend-links\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">帮助中心</a><a href=\"#\">服务状态</a><a href=\"#\">使用条款</a><a href=\"#\">联系通道</a></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>Zeze 官方网站 · 机场订阅与 VPN 网络加速说明</p><p><a href=\"#\">网站地图</a> · <a href=\"#\">隐私与条款</a> · 购买请走官方流程</p><p>© Zeze</p></footer>",
+          "hash": "7118a6820d4b52895c163ff8440b71fd90d0399369b203a027fa9226dda2563b",
+          "seo": {
+            "title": "Zeze官方网站 - 机场订阅 VPN梯子网络加速与客户端下载",
+            "keywords": "Zeze,Zeze机场,Zeze VPN,机场订阅,VPN梯子,网络加速,加速器,客户端下载,官网下载,Clash客户端,Shadowrocket",
+            "description": "Zeze提供专业机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏加速与多设备客户端。官方网站展示基础版、旗舰版、团队版套餐及下载使用指南。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wif-tech.cn",
+    "host": "p-f0a980b42e.wif-tech.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "wif-tech.cn",
+      "url": "https://wif-tech.cn/",
+      "label": "大白加速",
+      "apex": "wif-tech.cn",
+      "kind": null,
+      "identity": "wtbgvfamc/page-67c98069413423ff68dc34aa"
+    },
+    {
+      "host": "aymszgk.cn",
+      "url": "https://aymszgk.cn/",
+      "label": "Zeze",
+      "apex": "aymszgk.cn",
+      "kind": null,
+      "identity": "aftqbhbjs/page-4f05bd3ebe21fdf5efa795c1"
+    },
+    {
+      "host": "bayabi.cn",
+      "url": "https://bayabi.cn/",
+      "label": "Zeze",
+      "apex": "bayabi.cn",
+      "kind": null,
+      "identity": "pcndypfb/page-82734c15de3d133f1ba33ed9"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c90b5ece30016215e8e8a1fb01343f7ea983c5bc39b22bc0e57b402bf8738dd9",
+    "sitemap.xml": "c57ee838becfdc3f6ae9ea13d2a29196ca4760faca39a14f003285c0b2ceef76",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d74e627910abdf61face610a762d79128aa40b216405ed0cffda3027a795b7a6",
+    "robots.txt": "dc49cea6292780b6bc77a7a6bc05ab15e543df0e37e8eea178ecf8af39259a5e",
+    "827c2fb9e0b9e6536106b10909f3f462.txt": "0f4e56735b769c3715927d46f816c7433b46e6f9d3fd748d7c2387247736f0af"
+  },
+  "revision": "14dcd54fc2d950a622313742af19a89cc353946c182f3a377bddfd100423d375"
+}
